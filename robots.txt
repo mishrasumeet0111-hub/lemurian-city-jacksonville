@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://jacksonville.lemurianstudios.com/sitemap.xml
